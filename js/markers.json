@@ -1,20 +1,71 @@
 markers = [
    {
-     "name": "Canada",
-     "url": "https://en.wikipedia.org/wiki/Canada",
-     "lat": 56.130366,
-     "lng": -106.346771
+     "name": "Rhinocéros blanc (Afrique du Sud)",
+     "url": "animals/rhino.html",
+     "lat": -30.559482,
+     "lng": 22.937505999999985
    },
    {
-     "name": "Anguilla",
-     "url": "https://en.wikipedia.org/wiki/Anguilla",
-     "lat": 18.220554,
-     "lng": -63.068615
+     "name": "Rhinocéros blanc (Bostwana)",
+     "url": "animals/rhino.html",
+     "lat": -22.328474,
+     "lng": 24.684866000000056
+   },
+
+   {
+     "name": "Rhinocéros blanc (Zimbabwe)",
+     "url": "animals/rhino.html",
+     "lat": -19.015438,
+     "lng": 29.154856999999993
    },
    {
-     "name": "Japan",
-     "url": "https://en.wikipedia.org/wiki/Japan",
-     "lat": 36.204824,
-     "lng": 138.252924
-   }
+     "name": "Caméléon panthère (Madagascar)",
+     "url": "animals/came.html",
+     "lat": -30.559482,
+     "lng": 22.937505999999985
+   },
+   {
+     "name": "Caméléon panthère (Réunion)",
+     "url": "animals/came.html",
+     "lat": -30.559482,
+     "lng": 22.937505999999985
+   },
+   {
+     "name": "Caméléon panthère (Ile Maurice)",
+     "url": "animals/came.html",
+     "lat": -20.348404,
+     "lng": 57.55215199999998
+   },
+
+   {
+     "name": "Crevettes bleues (Senegal)",
+     "url": "animals/crevette.html",
+     "lat": 14.497401,
+     "lng": -14.452361999999994
+   },
+   {
+     "name": "Crevettes bleues (Gabon)",
+     "url": "animals/crevette.html",
+     "lat": -0.803689,
+     "lng": 11.60944399999994
+   },
+   {
+     "name": "Crevettes bleues (Nigéria)",
+     "url": "imals/crevette.html",
+     "lat": 9.081999,
+     "lng": 8.675277000000051
+   },
+
+   {
+     "name": "Lamantin d'Afrique (Mali)",
+     "url": "animals/lamantin.html",
+     "lat": 17.570692,
+     "lng": -3.9961660000000165
+   },
+   {
+     "name": "Lamantin d'Afrique (Niger)",
+     "url": "animals/lamantin.html",
+     "lat": 17.607789,
+     "lng": 8.081666000000041
+   },
 ];

@@ -1,0 +1,154 @@
+animals = [
+   {
+     "name": "Rhinocéros blanc",
+     "url": "https://en.wikipedia.org/wiki/Canada",
+	 "pays":"Afrique du Sud",
+     "lat": -30.559482,
+     "lng": 22.937505999999985,
+	 "alt": 1110
+   },
+   {
+     "name": "Rhinocéros blanc",
+     "url": "https://en.wikipedia.org/wiki/Canada",
+	 "pays":"Namibie",
+     "lat": -22.95764,
+     "lng": 18.490409999999997,
+	 "alt": 1349
+   },
+   {
+     "name": "Rhinocéros blanc",
+     "url": "https://en.wikipedia.org/wiki/Canada",
+	 "pays":"Bostwana",
+     "lat": -22.328474,
+     "lng": 24.684866000000056,
+	 "alt": 1018
+   },
+   {
+     "name": "Rhinocéros blanc",
+     "url": "https://en.wikipedia.org/wiki/Canada",
+	 "pays":"Zimbabwe",
+     "lat": -19.015438,
+     "lng": 29.154856999999993,
+	 "alt": 1243
+   },
+   {
+     "name": "Caméléon panthère",
+     "url": "https://en.wikipedia.org/wiki/Canada",
+	 "pays":"Madagascar",
+     "lat": -18.766947,
+     "lng": 46.869106999999985,
+	 "alt": 1344
+   },
+   {
+     "name": "Caméléon panthère",
+     "url": "https://en.wikipedia.org/wiki/Canada",
+	 "pays":"La Reunion",
+     "lat": -21.115141,
+     "lng": 55.536384,
+	 "alt": 1666
+   },
+   {
+     "name": "Caméléon panthère",
+     "url": "https://en.wikipedia.org/wiki/Canada",
+	 "pays":"Ile Maurice",
+     "lat": -20.348404,
+     "lng": 57.55215199999998,
+	 "alt": 567
+   },
+   {
+     "name": "Crevettes bleues",
+     "url": "https://en.wikipedia.org/wiki/Canada",
+	 "pays":"Cameroun",
+     "lat": 7.369721999999999,
+     "lng": 12.354722000000038,
+	 "alt": 1328
+   },
+   {
+     "name": "Crevettes bleues",
+     "url": "https://en.wikipedia.org/wiki/Canada",
+	 "pays":"Senegal",
+     "lat": 14.497401,
+     "lng": -14.452361999999994,
+	 "alt": 49
+   },
+   {
+     "name": "Crevettes bleues",
+     "url": "https://en.wikipedia.org/wiki/Canada",
+	 "pays":"Gabon",
+     "lat": -0.803689,
+     "lng": 11.60944399999994,
+	 "alt": 531
+   },
+   {
+     "name": "Crevettes bleues",
+     "url": "https://en.wikipedia.org/wiki/Canada",
+	 "pays":"Nigéria",
+     "lat": 9.081999,
+     "lng": 8.675277000000051,
+	 "alt": 481
+   },
+   {
+     "name": "Lamantin d'Afrique",
+     "url": "https://en.wikipedia.org/wiki/Canada",
+	 "pays":"Tchad",
+     "lat": 15.454166,
+     "lng": 18.732207000000017,
+	 "alt": 333
+   },
+   {
+     "name": "Lamantin d'Afrique",
+     "url": "https://en.wikipedia.org/wiki/Canada",
+	 "pays":"Mali",
+     "lat": 17.570692,
+     "lng": -3.9961660000000165,
+	 "alt": 284
+   },
+   {
+     "name": "Lamantin d'Afrique",
+     "url": "https://en.wikipedia.org/wiki/Canada",
+	 "pays":"Niger",
+     "lat": 17.607789,
+     "lng": 8.081666000000041,
+	 "alt": 612
+   },
+   {
+     "name": "Lamantin d'Afrique",
+     "url": "https://en.wikipedia.org/wiki/Canada",
+	 "pays":"Guinée",
+     "lat": 9.945587,
+     "lng": -9.69664499999999,
+	 "alt": 414
+   },
+   {
+     "name": "Lamantin d'Afrique",
+     "url": "https://en.wikipedia.org/wiki/Canada",
+	 "pays":"Sierra Léone",
+     "lat": 8.460555,
+     "lng": -11.779889000000026,
+	 "alt": 175
+   },
+   {
+     "name": "Lamantin d'Afrique",
+     "url": "https://en.wikipedia.org/wiki/Canada",
+	 "pays":"Gambie",
+     "lat": -20.348404,
+     "lng": 57.55215199999998,
+	 "alt": 567
+   },
+   {
+     "name": "Lamantin d'Afrique",
+     "url": "https://en.wikipedia.org/wiki/Canada",
+	 "pays":"Ile Maurice",
+     "lat": 13.443182,
+     "lng": -15.310138999999936,
+	 "alt": 10
+   },
+   {
+     "name": "Lamantin d'Afrique",
+     "url": "https://en.wikipedia.org/wiki/Canada",
+	 "pays":"Guinée Bissau",
+     "lat": 11.803749,
+     "lng": -15.180413000000044,
+	 "alt": 15
+   }
+];

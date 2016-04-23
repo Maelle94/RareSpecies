@@ -1,20 +1,26 @@
-markers = [
+plants = [
    {
-     "name": "Canada",
-     "url": "https://en.wikipedia.org/wiki/Canada",
-     "lat": 56.130366,
-     "lng": -109.346771
+     "name": "Entada Africana (Burkina Faso)",
+     "url": "plants/",
+     "lat": 12.238333,
+     "lng": -1.5615930
    },
    {
-     "name": "Anguilla",
-     "url": "https://en.wikipedia.org/wiki/Anguilla",
-     "lat": 18.220554,
-     "lng": -67.068615
+     "name": "(Tchad)",
+     "url": "plants/",
+     "lat": 15.454166,
+     "lng": 18.732207000000017
    },
    {
-     "name": "Japan",
-     "url": "https://en.wikipedia.org/wiki/Japan",
-     "lat": 39.204824,
-     "lng": 128.252924
+     "name": "(Centrafrique)",
+     "url": "plants/",
+     "lat": 6.61111099,
+     "lng": 20.93944399
+   },
+   {
+     "name": "(Sierra-Léone)",
+     "url": "plants/",
+     "lat": 8.460555,
+     "lng": -11.779889000000026
    }
 ];

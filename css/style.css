@@ -1,0 +1,21 @@
+
+footer {
+  height: 40px;
+  padding: 15px 0;
+}
+
+.navbar-brand img {
+  margin-top: -25px;
+  width: 350px;
+  height: auto;
+}
+
+#map {
+  height: 550px;
+  border: 1px solid #AAA;
+}
+
+img#green {
+  width:45px;
+  height:45px;
+}

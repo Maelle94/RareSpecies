@@ -20,14 +20,14 @@ var myURL = jQuery( 'script[src$="script1.js"]' ).attr( 'src' ).replace( 'script
 var myIcon = L.icon({
     iconUrl: myURL + 'images/pin-green.png',
     iconRetinaUrl: myURL + 'images/pin-green.png',
-    iconSize: [29, 24],
+    iconSize: [45, 45],
     iconAnchor: [9, 21],
     popupAnchor: [0, -14]
 });
 
 for ( var i=0; i < plants.length; ++i )
 {
-   L.plant( [plants[i].lat, plants[i].lng] )
+   L.marker( [plants[i].lat, plants[i].lng] , {icon: myIcon} )
       .bindPopup( '<a href="' + plants[i].url + '" target="_blank">' + plants[i].name + '</a>' )
       .addTo( map );
 }
