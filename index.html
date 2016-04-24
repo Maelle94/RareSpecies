@@ -8,10 +8,10 @@
       <script type='text/javascript' src="js/jquery.min.js"></script>
       <script type='text/javascript' src="js/bootstrap.js"></script>
       <script type='text/javascript' src="js/leaflet.js"></script>
+      <title>RareSpecies</title>
    </head>
 
    <body>
-      <h1>Rare species</h1>
       <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
         <div class="container">
             <!-- gerer affichage du menu sur mobile en transformant le menu en bouton -->
@@ -27,17 +27,29 @@
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li> <a href="animals.html"><img src="js/images/marker-icon.png" /> Animals</a> </li>
-                    <li> <a href="plants.html"><img src="js/images/pin-green.png" id="green" /> Plants</a> </li>
+                    <li> <a href="animals.html"><img src="js/images/marker-icon.png" /> Animaux</a> </li>
+                    <li> <a href="plants.html"><img src="js/images/pin-green.png" id="green" /> Plantes</a> </li>
+                    <li class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                      Plus...
+                      <span class="caret"></span>
+                    </li>
+                    <ul class="dropdown-menu col-md-2" aria-labelledby="dropdownMenu1">
+                      <li>
+                        <div class="input-group">
+                          <input type="text" class="form-control" placeholder="Nom de l'espèce" aria-describedby="basic-addon2">
+                          <span class="input-group-addon" id="basic-addon2"><i class="fa fa-search"></i></span>
+                        </div>
+                      </li>
+                      <li><a href="nous.html">En savoir plus sur nous</a></li>
+                    </ul>
                 </ul>
             </div>
-        </div>
       </nav>
 
       <div id="map" class="container-fluid"></div>
 
       <footer class="container-fluid text-center">
-        <p>GirlsTeam for Space Apps Challenge Cotonou, BENIN / Copyright 2014</p>
+        <p>GirlsTeam for Space Apps Challenge Cotonou, BENIN / Copyright 2016</p>
       </footer>
 
       <script type='text/javascript' src='js/markers.json'></script>

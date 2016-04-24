@@ -20,19 +20,19 @@ markers = [
    },
    {
      "name": "Caméléon panthère (Madagascar)",
-     "url": "animals/came.html",
+     "url": "animals/cameleon.html",
      "lat": -30.559482,
      "lng": 22.937505999999985
    },
    {
      "name": "Caméléon panthère (Réunion)",
-     "url": "animals/came.html",
+     "url": "animals/cameleon.html",
      "lat": -30.559482,
      "lng": 22.937505999999985
    },
    {
      "name": "Caméléon panthère (Ile Maurice)",
-     "url": "animals/came.html",
+     "url": "animals/cameleon.html",
      "lat": -20.348404,
      "lng": 57.55215199999998
    },

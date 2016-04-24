@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>RareSpecies</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../css/bootstrap.css" type="text/css">
+    <!-- mon style CSS -->
+    <link rel="stylesheet" href="../css/style.css" type="text/css">
+
+    <!-- jQuery -->
+    <script type='text/javascript' src="../js/jquery.min.js"></script>
+    <!-- Bootstrap JS -->
+    <script src="../js/bootstrap.js"></script>
+    <!-- mon JavaScript -->
+    <script src="../js/scripts.js"></script>
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+      <div class="container">
+          <!-- gerer affichage du menu sur mobile en transformant le menu en bouton -->
+          <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="../index.html"><img src="../js/images/rareSpecies.png"/></a>
+              <!--span class="badge badge-default pull-right"> légende: </span-->
+          </div>
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav navbar-right">
+                  <li> <a href="animals.html"><img src="../js/images/marker-icon.png" /> Animaux</a> </li>
+                  <li> <a href="plants.html"><img src="../js/images/pin-green.png" id="green" /> Plantes</a> </li>
+                  <li class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    Plus...
+                    <span class="caret"></span>
+                  </li>
+                  <ul class="dropdown-menu col-md-2" aria-labelledby="dropdownMenu1">
+                    <li>
+                      <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Nom de l'espèce" aria-describedby="basic-addon2">
+                        <span class="input-group-addon" id="basic-addon2"><i class="fa fa-search"></i></span>
+                      </div>
+                    </li>
+                    <li><a href="../nous.html">En savoir plus sur nous</a></li>
+                  </ul>
+              </ul>
+          </div>
+      </div>
+    </nav>
+
+    <div class="container" id="details">
+      <div class="row">
+          <section class="article">
+            <a href="#">
+              <h2 class="post-title">La mangrove</h2>
+            </a>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+              sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+              nisi ut aliquip ex ea commodo consequat.
+            </p>
+            <hr>
+            <div class="row">
+              <div class="col-md-6">
+                <h3><i class="fa fa-map-marker" aria-hidden="true"></i>Où se situent-elles?</h5>
+                <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+                  nisi ut aliquip ex ea commodo consequat.
+                </p>
+              </div>
+              <div class="col-md-6">
+                <h3>Sont-elles comestibles? Quelles sont leurs vertues?</h5>
+                <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+                  nisi ut aliquip ex ea commodo consequat.
+                </p>
+              </div>
+              <div class="clearfix"><hr></div>
+              <div class="col-md-6">
+                <h3>Pourquoi sont-elles en voie de disparition?</h5>
+                <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+                  nisi ut aliquip ex ea commodo consequat.
+                </p>
+              </div>
+              <div class="col-md-6">
+                <h3>Contacts utiles?</h5>
+                <p>
+                  <span>Soutenez la protection de la nature par un don <button class="btn btn-success">Faire un don</button></span>
+                  <br>
+                  <span><a href="https://fr.wikipedia.org/wiki/Fauna_%26_Flora_International">Fauna & Flora International</a></span>
+                  <br>
+                  <span><a href="http://www.snpn.com/">Société Nationale de Protection de la Nature </a></span>
+                  <br>
+                  <span><a href="https://unesco.org">UNESCO / ONU</a></span>
+
+                </p>
+              </div>
+            </div>
+        </section>
+      </div>
+    </div>
+
+    <hr>
+
+    <footer class="container-fluid text-center">
+      <p>GirlsTeam for Space Apps Challenge Cotonou, BENIN / Copyright 2016</p>
+    </footer>
+  </body>
+</html>

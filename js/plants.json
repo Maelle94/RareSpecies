@@ -6,21 +6,39 @@ plants = [
      "lng": -1.5615930
    },
    {
-     "name": "(Tchad)",
+     "name": "Lagenaria siceraria dit la plante de calebasse (Niger)",
      "url": "plants/",
-     "lat": 15.454166,
-     "lng": 18.732207000000017
+     "lat": 17.056784609942554,
+     "lng": 8.85498046875
    },
    {
-     "name": "(Centrafrique)",
+     "name": "Lagenaria siceraria dit la plante de calebasse (Bénin)",
      "url": "plants/",
-     "lat": 6.61111099,
-     "lng": 20.93944399
+     "lat": 10.228437266155943,
+     "lng": 2.87841796875
    },
    {
-     "name": "(Sierra-Léone)",
+     "name": "Adiatum (Bénin)",
      "url": "plants/",
-     "lat": 8.460555,
-     "lng": -11.779889000000026
+     "lat": 10.228437266155943,
+     "lng": 2.87841796875
+   },
+   {
+     "name": "Lagenaria siceraria dit la plante de calebasse (Mali)",
+     "url": "plants/",
+     "lat": 19.476950206488425,
+     "lng": -2.96630859375
+   },
+   {
+     "name": "Lagenaria siceraria dit la plante de calebasse (Zimbabwe)",
+     "url": "plants/",
+     "lat": -20.509354588714576,
+     "lng": 29.33349609375
+   },
+   {
+     "name": "Mangrove (Angola)",
+     "url": "plants/",
+     "lat": -11.5230875068685,
+     "lng": 19.92919921875
    }
 ];

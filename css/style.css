@@ -1,7 +1,7 @@
 
 footer {
-  height: 40px;
-  padding: 15px 0;
+  height: 35px;
+  padding: 10px 0;
 }
 
 .navbar-brand img {
@@ -11,6 +11,7 @@ footer {
 }
 
 #map {
+  margin-top: 75px;
   height: 550px;
   border: 1px solid #AAA;
 }
@@ -18,4 +19,13 @@ footer {
 img#green {
   width:45px;
   height:45px;
+}
+
+#details {
+  padding-top: 5em;
+  line-height: 2;
+}
+
+#dropdownMenu1 {
+  margin-top: 20px;
 }
